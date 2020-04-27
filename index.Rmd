@@ -57,6 +57,7 @@ print(ca_covid19)
 2. (10%) Genere un resumen de los datos con la función  ```summary() ```.
 
 ```{r}
+print(summary(ca_covid19))
 
 ```
 
